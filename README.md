@@ -1,0 +1,14 @@
+# My First Web Project
+
+This repository contains a simple website created using:
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- A styled webpage
+- A button that triggers a JavaScript alert
+
+## How to run
+1. Download or clone the repository
+2. Open `index.html` in any browser
